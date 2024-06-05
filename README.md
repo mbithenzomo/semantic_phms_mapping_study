@@ -13,7 +13,7 @@ The research papers describing the 43 systems systematically selected for this s
 
 Existing review and survey articles that are related to this study can be found [here](https://github.com/mbithenzomo/semantic_phms_mapping_study/tree/main/related_reviews), primarily divided into three groups. The reviews in Group 1 focus on the use of semantic technologies in the health domain; those in Group 2 review the use of sensors and IoT in the health domain; and finally, those in Group 3 review the use of semantic technologies with sensor and IoT data.
 
-![enter image description here](https://github.com/mbithenzomo/semantic_phms_mapping_study/blob/main/images/related_reviews.png?raw=true)
+<img src="https://github.com/mbithenzomo/semantic_phms_mapping_study/blob/main/images/related_reviews.png?raw=true" alt="drawing" width="200"/>
 
 There is also a small group of other related reviews that do not fit into these three categories.
 
